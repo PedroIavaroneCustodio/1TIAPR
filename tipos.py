@@ -14,3 +14,12 @@ print('\n'.join(Lista))
 resultado = variavel + a
 
 print(resultado)
+
+#comentando
+''' 
+
+Pode Escrever Aqui
+
+Pode Escrever Aqui
+
+'''
