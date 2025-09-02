@@ -1,4 +1,4 @@
 print("Hello, world")
 nome_do_cliente = input("Qual o seu nome?")
 print("Seu nome é: ", nome_do_cliente)
-print('Te Amo S2')
+print('Testando')
