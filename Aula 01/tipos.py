@@ -9,11 +9,11 @@ booleano = True
 
 Lista = ['Macarrao', 'Pao', 'Carne']
 
-print('\n'.join(Lista))
+
 
 resultado = variavel + a
 
-print(resultado)
+
 
 #comentando
 ''' 
